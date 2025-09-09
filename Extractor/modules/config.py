@@ -4,36 +4,36 @@ from os import getenv
 
 
 # ------------------------------------------------
-API_ID = int(os.environ.get("API_ID", "24869695"))
+API_ID = int(os.environ.get("API_ID", "22182189"))
 # ------------------------------------------------
-API_HASH = os.environ.get("API_HASH","5ee98927939d175ca953297fbe309f37")
+API_HASH = os.environ.get("API_HASH","5e7c4088f8e23d0ab61e29ae11960bf5")
 # ------------------------------------------------
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@FORWARD_44BOT")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Rna_55bot")
 BOT_TEXT = "TxtExtractor"
 # ------------------------------------------------
-OWNER_ID = int(os.environ.get("OWNER_ID", "7693352537"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5302639580"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003098184754"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003098184754")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://nitinkumarrayji:kDa1SZhovodoXIHB@cluster0.pmdssa7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003098184754"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", ""))
 # -----------------------------------------------
-join = '<a href="https://t.me/Nikhilbhaiiibot">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/owner_004">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "Appx" #without @
+ADMIN_BOT_USERNAME = "Owner_004" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/black-car-is-driving-down-road_951586-147043.jpg")
+THUMB_URL = os.environ.get("THUMB_URL", "https://envs.sh/uF8.jpg/IMG20250816365.jpg")
 
 
 
